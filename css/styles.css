@@ -93,9 +93,10 @@ a {
 }
 
 .team-subtitle,
-.portfolio-subtitle {
+.portfolio-subtitle,
+.feature-subtitle {
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.2px;
     letter-spacing: 0.02em;
     text-align: left;
     font-weight: 500;
@@ -109,12 +110,7 @@ p {
     text-align: left;
 }
 
-.feature-title {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2em;
-    letter-spacing: 0.02em;
-}
+
 
 .team-title,
 .portfolio-title {
