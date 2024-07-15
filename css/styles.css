@@ -39,7 +39,7 @@ a {
 .nav-link {
         font-size: 16px;
         font-weight: 500;
-        line-height: 24px;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #2E2F42;
 }
@@ -70,7 +70,7 @@ a {
     background-color: #2E2F42;
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.07em;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
 }
@@ -81,7 +81,7 @@ a {
     border: none;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: left;
     cursor: pointer;
@@ -96,7 +96,7 @@ a {
 .portfolio-subtitle,
 .feature-subtitle {
     font-size: 20px;
-    line-height: 1.2px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: left;
     font-weight: 500;
@@ -105,7 +105,7 @@ a {
 p {
     font-size: 16px;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
 }
@@ -117,7 +117,7 @@ p {
     color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11em;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
