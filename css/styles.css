@@ -92,7 +92,8 @@ a {
     background-color: #404BBF;
 }
 
-h3 {
+.team-subtitle,
+.portfolio-subtitle {
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.02em;
@@ -108,7 +109,9 @@ p {
     text-align: left;
 }
 
-h2 {
+.team-title,
+.portfolio-title {
+    color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11em;
@@ -126,8 +129,18 @@ h2 {
     font-weight: 500;
 }
 
+.team-item {
+    background-color: #FFFFFF;
+}
+
+
+
 .portfolio-item {
     background-color: #FFFFFF;
+}
+
+.portfolio-title {
+    color 
 }
 
 .footer {
